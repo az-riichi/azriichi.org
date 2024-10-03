@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Events"
-date:   2024-10-02 12:16:04 -0700
 permalink: /events/
 categories: info
 author_profile: false
@@ -9,4 +8,7 @@ read_time: false
 comments: false
 ---
 
-Nothing yet. Stay tuned!
+Please find our recurring gatherings and special events below. Please check [this page](/about/#locations) for details on locations.
+
+<iframe src="https://embed.styledcalendar.com/#3juoQ0Vg9rWJsy2K1Zfm" title="Styled Calendar" class="styled-calendar-container" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
+<script async type="module" src="https://embed.styledcalendar.com/assets/parent-window.js"></script>
