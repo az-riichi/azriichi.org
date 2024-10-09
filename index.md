@@ -12,7 +12,7 @@ header:
 
 <!-- "color:white; background-color:black" -->
 
-<h1>Welcome to <span style = "text-decoration: red blink wavy underline;">Arizona Riichi Mahjong</span></h1>
+<h1 style="text-align: center;">Arizona Riichi Mahjong</h1>
 
 
 Arizona Riichi Mahjong (AZRM) is a Japanese riichi mahjong club. We host recurring mahjong gatherings in Tempe and Tucson locations, with more to come.
