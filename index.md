@@ -20,7 +20,13 @@ We welcome mahjong players of all skill levels - from beginners to experts, you 
 For more information, please visit our [About](/about/) page.
 
 
-## Join us
+## What is riichi mahjong?
 
-We hold regular meetings in Tempe and Tucson, please check the [Events](/events/) page for details. Questions? Join our 
+Riichi mahjong is an exciting, fast-paced tile game that blends strategy, luck, and skill. Typically played with four people, your goal is to complete a hand by forming sets of three and a pair - think of it as a cross between rummy and poker. The enjoyment comes from making smart decisions, reading opponents, and going "riichi" to bet on that tile you need to win big. With special bonus tiles and scoring combinations, every round is full of surprises.
+
+
+## Join us!
+
+Interested in learning mahjong, or looking for places to play mahjong? 
+We hold regular meetings in Tempe and Tucson, please check the [Events](/events/) page for details. You can also join our 
 community [Discord server](https://discord.gg/PDdrN2N) where our members are happy to assist you!
