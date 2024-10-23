@@ -22,7 +22,13 @@ For more information, please visit our [About](/about/) page.
 
 ## What is riichi mahjong?
 
-Riichi mahjong is an exciting, fast-paced tile game that blends strategy, luck, and skill. Typically played with four people, your goal is to complete a hand by forming sets of three and a pair - think of it as a cross between rummy and poker. The enjoyment comes from making smart decisions, reading opponents, and going "riichi" to bet on that tile you need to win big. With special bonus tiles and scoring combinations, every round is full of surprises.
+Riichi mahjong is an exciting, fast-paced tile game that blends strategy, luck, and skill. 
+Mahjong started in China, it traveled the world and Japan created the variant Riichi mahjong. 
+This is the same variant the club plays and is typically played with four people, your goal is to 
+complete a hand by forming specific winning conditions (like rummy or poker). This is quickly becoming 
+one of the most popular variants around the world. 
+
+Join our discord and consider joining one of our in-person meetups. Weekly online meetups are in the works. 
 
 
 ## Join us!
