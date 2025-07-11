@@ -25,14 +25,17 @@ club members. We encourage you to join and connect with our community to further
 ## Locations
 ### Tempe
 
+**Notice** Tempe location is not in session due to school break; to resume around 8/27/2025.
+In the mean time please check our Events page for arrangements in the summer.
+
 **ASU Tempe - Durham Hall**\
 Durham Hall Room L1-31\
 851 S Cady Mall\
 Tempe, AZ 85282
 
-<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Durham+Hall,+Cady+Mall,+Tempe,+AZ,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="our-googlemap-code" href="https://kbj9qpmy.com/bp" id="grab-map-info">Internet Provider</a><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
+<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Durham+Hall,+Cady+Mall,+Tempe,+AZ,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
 
-**Note**: (The location was changed for the Spring 2025 semester.) This location is open to the general public. You *do not* need to be affiliated with ASU to join.
+**Note**: This location is open to the general public. You *do not* need to be affiliated with ASU to join.
 
 Directions: Arrive at Durham Hall, go downstairs to the basement (L1 floor), and head south. Room L1-31 is on the west side of the hallway. 
 Parking in downtown Tempe is limited and can be expensive, so consider carpooling or using public transit.
@@ -45,14 +48,24 @@ Parking in downtown Tempe is limited and can be expensive, so consider carpoolin
 3994 N Oracle Rd\
 Tucson, AZ 85705
 
-<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Arcanum+San&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="our-googlemap-code" href="https://kbj9qpmy.com/bp" id="grab-map-info">Broadband Providers</a><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
+<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Arcanum+San&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
 
 **Meetings**: Every Sunday at 2:00 PM. Times are subject to change, so please check our Discord for updates.
+
+### (NEW) Sierra Vista
+
+**The Rising Sun Games**\
+1299 E Fry Blvd Ste D\
+Sierra Vista, AZ 85635
+
+<div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=The+Rising+Sun+Games,+East+Fry+Boulevard,+Sierra+Vista,+AZ,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#canvas-for-googlemap img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
+
+**Meetings**: Every Tuesday at 4:30 PM. Times are subject to change, so please check our Discord for updates.
 
 
 ### Online
 
-We host online mahjong games every Thursday evening after 5 PM. Please check the Discord server for updates.
+We host online mahjong games from time to time. Please check the Discord server for updates.
 
 
 ## Miscellaneous
