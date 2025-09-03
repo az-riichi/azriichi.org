@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "About AZRM"
-date:   2024-10-09 01:16:04 -0700
+date:   2025-09-03 16:16:04 -0700
 permalink: /about/
 categories: info
 author_profile: false
@@ -25,11 +25,8 @@ club members. We encourage you to join and connect with our community to further
 ## Locations
 ### Tempe
 
-**Notice** Tempe location is not in session due to school break; to resume around 8/27/2025.
-In the mean time please check our Events page for arrangements in the summer.
-
 **ASU Tempe - Durham Hall**\
-Durham Hall Room L1-31\
+Durham Hall Room L1-30\
 851 S Cady Mall\
 Tempe, AZ 85282
 
@@ -37,7 +34,7 @@ Tempe, AZ 85282
 
 **Note**: This location is open to the general public. You *do not* need to be affiliated with ASU to join.
 
-Directions: Arrive at Durham Hall, go downstairs to the basement (L1 floor), and head south. Room L1-31 is on the west side of the hallway. 
+Directions: Arrive at Durham Hall, go downstairs to the basement (L1 floor), and head south. Room L1-30 is on the east side of the hallway. 
 Parking in downtown Tempe is limited and can be expensive, so consider carpooling or using public transit.
 
 **Meetings**: Every Wednesday at 5:00 PM.

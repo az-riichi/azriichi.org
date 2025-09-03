@@ -15,9 +15,9 @@ header:
 <h1 style="text-align: center;">Arizona Riichi Mahjong</h1>
 
 
-Arizona Riichi Mahjong (AZRM) is a Japanese riichi mahjong club. We host recurring mahjong gatherings in Tempe and Tucson locations, with more to come.
+Arizona Riichi Mahjong (AZRM) is a Japanese riichi mahjong club. We host recurring mahjong gatherings in Tempe, Tucson, and Sierra Vista locations, with more to come.
 We welcome mahjong players of all skill levels - from beginners to experts, you will enjoy our friendly atmosphere and supportive learning environment.
-For more information, please visit our [About](/about/) page.
+For more information including our locations, please visit our [About](/about/) page.
 
 
 ## What is riichi mahjong?
