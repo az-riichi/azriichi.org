@@ -4,6 +4,8 @@ main:
     target: _blank
   - title: "About"
     url: /about/
+  - title: "Competitive"
+    url: /competitive/
   - title: "Events"
     url: /events/
   - title: "Posts"

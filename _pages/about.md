@@ -17,6 +17,8 @@ There are no annual memberships, fees, or obligations. You do not need to bring 
 
 We look forward to seeing you!
 
+![Club meeting at ASU](/assets/images/club.webp)
+
 ## Discord
 
 Our club has a community [Discord server](https://discord.gg/PDdrN2N) where we offer mahjong advice, play mahjong online, and chat with fellow
@@ -29,6 +31,9 @@ club members. We encourage you to join and connect with our community to further
 Durham Hall Room L1-30\
 851 S Cady Mall\
 Tempe, AZ 85282
+
+*Last meeting at ASU is on 12/3/2025, and we will enter winter recess until the start of spring semester. However, be on lookout for unofficial meetings
+during the break!*
 
 <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Durham+Hall,+Cady+Mall,+Tempe,+AZ,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
 
@@ -49,7 +54,7 @@ Tucson, AZ 85705
 
 **Meetings**: Every Sunday at 2:00 PM. Times are subject to change, so please check our Discord for updates.
 
-### (NEW) Sierra Vista
+### Sierra Vista
 
 **The Rising Sun Games**\
 1299 E Fry Blvd Ste D\
@@ -67,4 +72,4 @@ We host online mahjong games from time to time. Please check the Discord server 
 
 ## Miscellaneous
 
-The Tempe location is a registered student club at Arizona State University. You can find us on [Sun Devil Sync](https://asu.campuslabs.com/engage/organization/riichi). Please note that you *do not* need to be affiliated with ASU to join - our club is open to the general public.
+The Tempe location is a registered student club at Arizona State University. You can find us on [Sun Devil Sync](https://sundevilcentral.eoss.asu.edu/rmc/home/). Please note that you *do not* need to be affiliated with ASU to join - our club is open to the general public.
