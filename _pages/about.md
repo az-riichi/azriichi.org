@@ -2,6 +2,7 @@
 layout: single
 title:  "About AZRM"
 date:   2025-09-03 16:16:04 -0700
+last_modified_at:   2026-01-13 16:50:20 -0700
 permalink: /about/
 categories: info
 author_profile: false
@@ -32,8 +33,7 @@ Durham Hall Room L1-30\
 851 S Cady Mall\
 Tempe, AZ 85282
 
-*Last meeting at ASU is on 12/3/2025, and we will enter winter recess until the start of spring semester. However, be on lookout for unofficial meetings
-during the break!*
+*We look forward to welcoming everybody back during the 2026 Spring semester! Our first session will be held on January 14th.*
 
 <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Durham+Hall,+Cady+Mall,+Tempe,+AZ,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
 

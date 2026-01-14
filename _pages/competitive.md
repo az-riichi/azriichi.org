@@ -2,7 +2,7 @@
 layout: single
 title:  "Competitive Info"
 date:   2025-11-05 17:11:14 -0700
-last_modified_at:   2025-12-01 22:19:20 -0700
+last_modified_at:   2026-01-13 16:55:20 -0700
 permalink: /competitive/
 categories: info
 author_profile: false
@@ -12,11 +12,13 @@ comments: false
 
 ## Standing
 
-[Current standing](https://docs.google.com/spreadsheets/d/1o183F8LwtqmTYUL2KjCAmuMY0184GAdX_vk65gZm3hI/edit?usp=sharing) (2025 trial season)
+[2026 standing](https://docs.google.com/spreadsheets/d/1KB285DzPHclLeq46nVB9UNl3a5b45eqT-cXdgjQKwzc/edit?usp=sharing) (current season)
+
+[2025 trial season final standing](https://docs.google.com/spreadsheets/d/1o183F8LwtqmTYUL2KjCAmuMY0184GAdX_vk65gZm3hI/edit?usp=sharing)
 
 ## Rules
 
-We use the current [WRC Rules](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/6834d67360e19c1da6c0d12c/1748293243651/WRC+Rules+2025.pdf), with the following modifications.
+We use the current [WRC 2025 Rules](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/6834d67360e19c1da6c0d12c/1748293243651/WRC+Rules+2025.pdf), with the following modifications.
 - 25,000 starting points; 30,000 break-even points;
 - Red dora is used, one per suit;
 - No kazoe yakuman (i.e. 13+ han is counted as sanbaiman);
