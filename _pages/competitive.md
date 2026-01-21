@@ -19,7 +19,6 @@ comments: false
 ## Rules
 
 We use the current [WRC 2025 Rules](https://static1.squarespace.com/static/634a7884c297a25f06589b79/t/6834d67360e19c1da6c0d12c/1748293243651/WRC+Rules+2025.pdf), with the following modifications.
-- 25,000 starting points; 30,000 break-even points;
 - Red dora is used, one per suit;
 - No kazoe yakuman (i.e. 13+ han is counted as sanbaiman);
 - Uma is +30/+10/-10/-30;
