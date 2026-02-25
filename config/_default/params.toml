@@ -51,6 +51,7 @@ disableHeroImageFilter = false
 showDate = true
 showViews = false
 showLikes = false
+showComments = true
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false

@@ -18,6 +18,9 @@ enableEmoji = true
 
 
 # googleAnalytics = "G-XXXXXXXXX"
+[services]
+  [services.disqus]
+    shortname = 'azrm'
 
 [pagination]
   pagerSize = 100
