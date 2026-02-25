@@ -1,0 +1,14 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "AZRM"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "January 2, 2006"
+logo = "img/AZRM_Logo.png"
+description = "Official website of Arizona Riichi Mahjong club"
+copyright = "©{ year } Arizona Riichi Mahjong"

@@ -1,0 +1,37 @@
+
+
+[[main]]
+name = "About"
+url = "/about"
+identifier = "r7twb1qN96"
+weight = 1
+
+[[main]]
+name = "Competitive"
+url = "/competitive"
+identifier = "rJOGtge03N"
+weight = 10
+
+[[main]]
+name = "Events"
+url = "/events"
+identifier = "9IgGgIQ5fB"
+weight = 20
+
+[[main]]
+name = "News"
+url = "/posts"
+identifier = "KeWderFqhC"
+weight = 30
+
+[[main]]
+pre = "discord"
+url = "https://discord.gg/PDdrN2N"
+identifier = "dNl6Q3jq50"
+weight = 40
+
+[[footer]]
+pre = "heart-empty"
+name = "Terms of Service"
+url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+weight = 1
