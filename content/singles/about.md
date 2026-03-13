@@ -7,7 +7,6 @@ categories: ["Info"]
 author_profile: false
 read_time: false
 comments: false
-showDateUpdated: true
 showPagination: false
 ---
 
