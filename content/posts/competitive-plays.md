@@ -1,11 +1,7 @@
 ---
-layout: single
 title:  "Competitive Plays"
 date:   2025-11-05 19:46:34 -0700
 categories: Info
-author_profile: false
-read_time: false
-comments: true
 ---
 
 As part of AZRM's mission to further mahjong skills and prepare our players for tournaments, we now offer competitive tables at the ASU location every club meet.

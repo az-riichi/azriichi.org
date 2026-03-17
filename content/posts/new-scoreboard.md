@@ -1,11 +1,7 @@
 ---
-layout: single
 title:  "New Scoreboard Website is Live"
 date:   2026-02-24 19:31:00 -0700
 categories: Info
-author_profile: false
-read_time: false
-comments: true
 ---
 
 A new and improved scoreboard website is now live! Please check out [score.azriichi.org](https://score.azriichi.org) for real-time updates. The old Google Sheets links are no longer maintained.

@@ -1,11 +1,8 @@
 ---
-layout: single
 title:  "Thank you Saboten!"
+slug:   thank-you-saboten-2025
 date:   2025-09-01 12:11:34 -0700
 categories: Events
-author_profile: false
-read_time: true
-comments: true
 ---
 Thank you for attending our booth at Saboten 2025! The turnout was great, and we recorded 6 tables simultaneously. 
 

@@ -31,8 +31,6 @@ Durham Hall Room L1-30\
 851 S Cady Mall\
 Tempe, AZ 85282
 
-*We look forward to welcoming everybody back during the 2026 Spring semester! Our first session will be held on January 14th.*
-
 <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:750px;height:400px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Durham+Hall,+Cady+Mall,+Tempe,+AZ,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
 
 **Note**: This location is open to the general public. You *do not* need to be affiliated with ASU to join.

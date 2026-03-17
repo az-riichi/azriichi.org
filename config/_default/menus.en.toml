@@ -7,6 +7,12 @@ identifier = "r7twb1qN96"
 weight = 1
 
 [[main]]
+name = "Locations"
+url = "/about/#locations"
+identifier = "locations"
+weight = 2
+
+[[main]]
 name = "Competitive"
 url = "/competitive"
 identifier = "rJOGtge03N"

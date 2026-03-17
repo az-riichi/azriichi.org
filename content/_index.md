@@ -31,6 +31,13 @@ Interested in learning mahjong, or looking for places to play mahjong?
 We hold regular meetings in Tempe and Tucson, please check the [Events](/events/) page for details. You can also join our 
 community [Discord server](https://discord.gg/PDdrN2N) where our members are happy to assist you!
 
-{{< button href="about#locations" target="_self" >}}
-See Locations
-{{< /button >}}
+<div class="mt-6 flex flex-wrap justify-center gap-4">
+  {{< button href="https://discord.gg/PDdrN2N" target="_self" >}}
+  {{< icon "discord" >}}
+  Discord
+  {{< /button >}}
+
+  {{< button href="about#locations" target="_self" >}}
+  See Locations
+  {{< /button >}}
+</div>
