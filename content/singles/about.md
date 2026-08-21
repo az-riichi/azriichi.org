@@ -26,6 +26,9 @@ club members. We encourage you to join and connect with our community to further
 ## Locations
 ### Tempe
 
+
+**Note**: we will resume meeting here on Sept 2.
+
 **ASU Tempe - Durham Hall**\
 Durham Hall Room L1-30\
 851 S Cady Mall\
