@@ -27,7 +27,7 @@ club members. We encourage you to join and connect with our community to further
 ### Tempe
 
 
-**Note**: we will resume meeting here on Sept 2.
+**Note**: we have returned to the ASU location for Fall 2026! Come and visit us :)
 
 **ASU Tempe - Durham Hall**\
 Durham Hall Room L1-30\
